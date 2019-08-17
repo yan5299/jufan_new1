@@ -1,0 +1,14 @@
+platformName: Android
+platformVersion: 6.0.1
+deviceName: 127.0.0.1:7555
+#udid: OR5LI7GY99999999
+#app: D:\\AppiumTraining\study_action\mymoney.apk
+appname: QijuLive-debug-1.0.0-10019-20190629.apk
+appPackage: com.guagua.marslive
+appActivity: .TestMainActivity
+#appActivity: com.guagua.live.ui.home.MainActivity
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723
